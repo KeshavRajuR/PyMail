@@ -26,7 +26,15 @@ Other python modules:
 `pip install -r requirements.txt`
 
 ## Program Execution
-![](https://raw.githubusercontent.com/KeshavRajuR/PyMail/master/Images/output.png)
+#### Writing the Email:
+<p>
+  <img src="https://raw.githubusercontent.com/KeshavRajuR/PyMail/master/Images/output.png"/>
+</p>
+
+#### Received Email:
+<p>
+  <img src="https://raw.githubusercontent.com/KeshavRajuR/PyMail/master/Images/received_email.png"/>
+</p>
 
 ## Limitations
 The sender will have to turn ON 'Enable Less Secure Apps' feature in their email settings.
