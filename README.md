@@ -22,7 +22,7 @@ Other python modules:
 - sys
 - re
 
-## Installation
+## Requirements
 `pip install -r requirements.txt`
 
 ## Limitations
