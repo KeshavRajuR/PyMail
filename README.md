@@ -25,6 +25,9 @@ Other python modules:
 ## Requirements
 `pip install -r requirements.txt`
 
+## Program Execution
+![](https://raw.githubusercontent.com/KeshavRajuR/PyMail/master/Images/output.png)
+
 ## Limitations
 The sender will have to turn ON 'Enable Less Secure Apps' feature in their email settings.
 
