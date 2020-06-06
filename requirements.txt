@@ -1,0 +1,9 @@
+click
+six
+PyInquirer
+pyfiglet
+colorama
+termcolor
+validate_email
+smtplib
+email
