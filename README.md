@@ -3,7 +3,7 @@
 PyMail is a CLI based emailing program that allows users to send emails to one-another. This is a **SMTP Protocol** based program.
 
 ## Implementation
-TODO - Add proper Implementation\
+TODO - Add proper Implementation documentation\
 Python modules for CLI:
 - click
 - six
